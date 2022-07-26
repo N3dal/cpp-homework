@@ -1,3 +1,3 @@
 # Cpp Homework
 
-just bunch of cpp homeworks from college.
+just bunch of c++ homeworks needed for college.
