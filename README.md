@@ -4,7 +4,7 @@ just bunch of c++ homeworks needed for college.
 
 # Questions:
 
-|        Question Num        | Question? | 
+|        Question Number       | Question? | 
 | :------------------------: | ----------|
 | [Q01](./cpp_files/q01.cpp) | Write a program in C++ to print a welcome text in a separate line? | 
 | [Q02](./cpp_files/q02.cpp) | Write a program in C++ to print the sum of two float  numbers? | 
