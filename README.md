@@ -4,7 +4,6 @@ just bunch of c++ homeworks needed for college.
 
 # Questions:
 [Q01](./cpp_files/q01.cpp) 
-
 [Q02](./cpp_files/q02.cpp) 
 
 [Q03](./cpp_files/q03.cpp) 
