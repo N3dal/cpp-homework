@@ -4,8 +4,9 @@ just bunch of c++ homeworks needed for college.
 
 # Questions:
 
-| [Q01](./cpp_files/q01.cpp) | Question? | 
+|        Question Num        | Question? | 
 | ---------------------------| ----------|
+| [Q01](./cpp_files/q01.cpp) | Question? | 
 | [Q02](./cpp_files/q02.cpp) | Question? | 
 | [Q03](./cpp_files/q03.cpp) | Question? | 
 | [Q04](./cpp_files/q04.cpp) | Question? | 
