@@ -10,7 +10,7 @@ int main(void){
     float temperature_in_celsius = 32.8;
     float temperature_in_fahrenheit = 0;
 
-    temperature_in_fahrenheit = temperature_in_celsius + 32.0;
+    temperature_in_fahrenheit = temperature_in_celsius * (1.8);
 
 
     cout << temperature_in_celsius << "C" << " in Fahrenheit = " << temperature_in_fahrenheit << "F" << endl;
